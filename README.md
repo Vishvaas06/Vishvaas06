@@ -4,9 +4,9 @@
 
 I'm Fafa, I'm currently learning the limits of JavaScript!
 
-<img src="https://skillicons.dev/icons?i=astro,bash,cloudflare,git,html,js,md,nextjs,nodejs&perline=12" />
+<img src="https://skillicons.dev/icons?i=git,html,js,md,nextjs,nodejs&perline=12" />
 <br />
-<img src="https://skillicons.dev/icons?i=discord,discordjs,github,pnpm,vscode&perline=12" />
+<img src="https://skillicons.dev/icons?i=discord,discordjs,github,npm,vscode&perline=12" />
 <br />
     <table>
         <tr>
