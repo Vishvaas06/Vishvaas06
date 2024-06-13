@@ -11,10 +11,10 @@ I'm Fafa, I'm currently learning the limits of JavaScript!
     <table>
         <tr>
             <td style="padding=0;width=50%;">
-                <img src="https://github-readme-stats.vercel.app/api?username=/Vishvaas06&hide=contribs&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+                <img src="https://github-readme-stats.vercel.app/api?username=Vishvaas06&hide=contribs&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
             </td>
             <td style="padding=0;width=50%;">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/Vishvaas06&hide=commits&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvaas06&hide=commits&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
             </td>
         </tr>
     </table>
@@ -48,9 +48,9 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//Vishvaas06//Vishvaas06/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//Vishvaas06//Vishvaas06/output/github-contribution-grid-snake.svg">
-  <img width=850 alt="github contribution grid snake animation" src="https://raw.githubusercontent.com//Vishvaas06//Vishvaas06/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishvaas06/Vishvaas06/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishvaas06/Vishvaas06/output/github-contribution-grid-snake.svg">
+  <img width=850 alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vishvaas06/Vishvaas06/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
