@@ -130,7 +130,6 @@ I'm Fafa, I'm currently learning the limits of JavaScript!
 `[04/12 21:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
 `[03/25 16:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#14`](https://github.com//AkaruiDevelopment/aoi.music/issues/14 '$autoplay is bugged!') in [AkaruiDevelopment/aoi.music](https://github.com/AkaruiDevelopment/aoi.music)  
 `[03/25 15:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#13`](https://github.com//AkaruiDevelopment/aoi.music/issues/13 '$skipto is bugged!') in [AkaruiDevelopment/aoi.music](https://github.com/AkaruiDevelopment/aoi.music)  
-`[03/25 14:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
 
 </details>
 <!--END_SECTION:activity-->
