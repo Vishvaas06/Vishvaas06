@@ -27,7 +27,8 @@ I'm Fafa, I'm currently learning the limits of JavaScript!
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-`[06/15 08:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
+`[06/15 08:27]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#27`](https://github.com//Faf4a/dashboard/pull/27 'Changes') in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
+`[06/15 08:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
 `[06/13 17:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Vishvaas06/Vishvaas06](https://github.com/Vishvaas06/Vishvaas06)  
 `[06/13 15:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
 `[06/13 13:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#26`](https://github.com//Faf4a/dashboard/pull/26 'Fixed guild cache +  modified /api/user/guilds') in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
@@ -36,10 +37,10 @@ I'm Fafa, I'm currently learning the limits of JavaScript!
 `[06/13 09:20]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#25`](https://github.com//Faf4a/dashboard/pull/25 'stable beta ver') in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 `[06/13 09:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#25`](https://github.com//Faf4a/dashboard/pull/25 'stable beta ver') in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 `[06/13 09:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
-`[06/13 08:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 
 <details><summary>Show More</summary>
 
+`[06/13 08:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 `[06/13 08:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#24`](https://github.com//Faf4a/dashboard/pull/24 'Delete src/css directory') in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 `[06/13 08:26]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#24`](https://github.com//Faf4a/dashboard/pull/24 'Delete src/css directory') in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 `[06/13 08:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
@@ -128,7 +129,7 @@ I'm Fafa, I'm currently learning the limits of JavaScript!
 `[04/20 07:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Faf4a/Music-Guessr](https://github.com/Faf4a/Music-Guessr)  
 `[04/16 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
 `[04/14 08:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AkaruiDevelopment/aoi.js](https://github.com/AkaruiDevelopment/aoi.js)  
-`[04/12 21:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
+`[04/12 21:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
 
 </details>
 <!--END_SECTION:activity-->
