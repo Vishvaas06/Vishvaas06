@@ -27,6 +27,8 @@ I'm Fafa, I'm currently learning the limits of JavaScript!
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/17 13:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#30`](https://github.com//aoijs/aoi.dashboard/pull/30 'Added footer in css') in [aoijs/aoi.dashboard](https://github.com/aoijs/aoi.dashboard)  
+`[06/17 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
 `[06/17 06:24]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#179`](https://github.com//aoijs/website/pull/179 'Update queue.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/17 06:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Vishvaas06/website](https://github.com/Vishvaas06/website)  
 `[06/15 13:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
@@ -35,11 +37,11 @@ I'm Fafa, I'm currently learning the limits of JavaScript!
 `[06/13 17:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Vishvaas06/Vishvaas06](https://github.com/Vishvaas06/Vishvaas06)  
 `[06/13 15:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
 `[06/13 13:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#26`](https://github.com//Faf4a/dashboard/pull/26 'Fixed guild cache +  modified /api/user/guilds') in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
-`[06/13 13:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
-`[06/13 09:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 
 <details><summary>Show More</summary>
 
+`[06/13 13:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
+`[06/13 09:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 `[06/13 09:20]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#25`](https://github.com//Faf4a/dashboard/pull/25 'stable beta ver') in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 `[06/13 09:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#25`](https://github.com//Faf4a/dashboard/pull/25 'stable beta ver') in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 `[06/13 09:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
