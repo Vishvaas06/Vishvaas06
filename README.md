@@ -27,6 +27,8 @@ I'm Fafa, I'm currently learning the limits of JavaScript!
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/29 15:03]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#182`](https://github.com//aoijs/website/pull/182 'Update textSplitMap.md') in [aoijs/website](https://github.com/aoijs/website)  
+`[06/29 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Vishvaas06/website](https://github.com/Vishvaas06/website)  
 `[06/26 14:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Vishvaas06/cards](https://github.com/Vishvaas06/cards)  
 `[06/23 05:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
 `[06/21 05:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/Vishvaas06](https://github.com/Vishvaas06/Vishvaas06)  
@@ -35,11 +37,11 @@ I'm Fafa, I'm currently learning the limits of JavaScript!
 `[06/17 15:03]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [NanotechPikachu/aoi.mongodb](https://github.com/NanotechPikachu/aoi.mongodb) to [Vishvaas06/aoi.mongodb](https://github.com/Vishvaas06/aoi.mongodb)  
 `[06/17 15:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NanotechPikachu/aoi.mongodb](https://github.com/NanotechPikachu/aoi.mongodb)  
 `[06/17 14:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/website](https://github.com/Vishvaas06/website)  
-`[06/17 13:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#30`](https://github.com//aoijs/aoi.dashboard/pull/30 'Added footer in css') in [aoijs/aoi.dashboard](https://github.com/aoijs/aoi.dashboard)  
-`[06/17 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
 
 <details><summary>Show More</summary>
 
+`[06/17 13:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#30`](https://github.com//aoijs/aoi.dashboard/pull/30 'Added footer in css') in [aoijs/aoi.dashboard](https://github.com/aoijs/aoi.dashboard)  
+`[06/17 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
 `[06/17 06:24]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#179`](https://github.com//aoijs/website/pull/179 'Update queue.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/17 06:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Vishvaas06/website](https://github.com/Vishvaas06/website)  
 `[06/15 13:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
