@@ -2,7 +2,7 @@
 
 ## Hello there!
 
-I'm Fafa, I'm currently learning the limits of JavaScript!
+I'm Vishvaas, I'm flying in ocean!
 
 <img src="https://skillicons.dev/icons?i=git,html,js,md,nextjs,nodejs&perline=12" />
 <br />
