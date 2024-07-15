@@ -144,7 +144,6 @@ I'm Vishvaas, I'm flying in ocean!
 `[04/20 13:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
 `[04/20 07:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Faf4a/Music-Guessr](https://github.com/Faf4a/Music-Guessr)  
 `[04/16 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
-`[04/14 08:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AkaruiDevelopment/aoi.js](https://github.com/AkaruiDevelopment/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
