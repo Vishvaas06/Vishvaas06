@@ -143,7 +143,7 @@ I'm Vishvaas, I'm flying in ocean!
 `[04/20 13:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mertssmnoglu/discord-hooks](https://github.com/mertssmnoglu/discord-hooks)  
 `[04/20 13:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
 `[04/20 07:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Faf4a/Music-Guessr](https://github.com/Faf4a/Music-Guessr)  
-`[04/16 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
+`[04/16 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
 
 </details>
 <!--END_SECTION:activity-->
