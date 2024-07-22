@@ -134,11 +134,6 @@ I'm Vishvaas, I'm flying in ocean!
 `[04/21 14:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//diwasatreya/Discord-Server-Dashboard/pull/3 'Add files via upload') in [diwasatreya/Discord-Server-Dashboard](https://github.com/diwasatreya/Discord-Server-Dashboard)  
 `[04/21 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/Discord-Server-Dashboard](https://github.com/Vishvaas06/Discord-Server-Dashboard)  
 `[04/21 14:34]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [diwasatreya/Discord-Server-Dashboard](https://github.com/diwasatreya/Discord-Server-Dashboard) to [Vishvaas06/Discord-Server-Dashboard](https://github.com/Vishvaas06/Discord-Server-Dashboard)  
-`[04/21 13:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [diwasatreya/Discord-Server-Dashboard](https://github.com/diwasatreya/Discord-Server-Dashboard)  
-`[04/21 13:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bedimcode/responsive-halloween-website](https://github.com/bedimcode/responsive-halloween-website)  
-`[04/21 13:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fuma-nama/discord-bot-dashboard-next](https://github.com/fuma-nama/discord-bot-dashboard-next)  
-`[04/21 13:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [codewithsadee/filmlane](https://github.com/codewithsadee/filmlane)  
-`[04/21 10:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
 
 </details>
 <!--END_SECTION:activity-->
