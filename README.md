@@ -126,7 +126,7 @@ I'm Vishvaas, I'm flying in ocean!
 `[05/03 14:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#587`](https://github.com//aoijs/aoi.js/issues/587 'Bug: $globalUserLeaderboard broken in v6.8') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/02 23:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `66` commits in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
 `[05/01 21:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
-`[05/01 05:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
+`[05/01 05:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
 
 </details>
 <!--END_SECTION:activity-->
