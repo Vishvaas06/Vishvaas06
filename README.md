@@ -27,6 +27,8 @@ I'm Vishvaas, I'm flying in ocean!
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/27 20:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KMKINGMAN/ProBotDiscordFontEnd](https://github.com/KMKINGMAN/ProBotDiscordFontEnd)  
+`[07/27 20:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LunaryBot/LunaryDashboard](https://github.com/LunaryBot/LunaryDashboard)  
 `[07/05 14:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bedimcode/responsive-book-website](https://github.com/bedimcode/responsive-book-website)  
 `[07/05 14:13]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tryforge/ForgePanel](https://github.com/tryforge/ForgePanel) to [Vishvaas06/ForgePanel](https://github.com/Vishvaas06/ForgePanel)  
 `[07/05 14:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tryforge/ForgePanel](https://github.com/tryforge/ForgePanel)  
@@ -35,11 +37,11 @@ I'm Vishvaas, I'm flying in ocean!
 `[06/29 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Vishvaas06/website](https://github.com/Vishvaas06/website)  
 `[06/26 14:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Vishvaas06/cards](https://github.com/Vishvaas06/cards)  
 `[06/23 05:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
-`[06/21 05:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/Vishvaas06](https://github.com/Vishvaas06/Vishvaas06)  
-`[06/19 08:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aoijs/aoi.canvas](https://github.com/aoijs/aoi.canvas)  
 
 <details><summary>Show More</summary>
 
+`[06/21 05:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/Vishvaas06](https://github.com/Vishvaas06/Vishvaas06)  
+`[06/19 08:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aoijs/aoi.canvas](https://github.com/aoijs/aoi.canvas)  
 `[06/17 15:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
 `[06/17 15:03]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [NanotechPikachu/aoi.mongodb](https://github.com/NanotechPikachu/aoi.mongodb) to [Vishvaas06/aoi.mongodb](https://github.com/Vishvaas06/aoi.mongodb)  
 `[06/17 15:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NanotechPikachu/aoi.mongodb](https://github.com/NanotechPikachu/aoi.mongodb)  
