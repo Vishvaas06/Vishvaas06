@@ -130,8 +130,6 @@ I'm Vishvaas, I'm flying in ocean!
 `[05/04 21:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fuma-nama/discord-dashboard-backend-next](https://github.com/fuma-nama/discord-dashboard-backend-next)  
 `[05/03 22:31]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [asrvd/lyrist](https://github.com/asrvd/lyrist) to [Vishvaas06/lyrist](https://github.com/Vishvaas06/lyrist)  
 `[05/03 22:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [asrvd/lyrist](https://github.com/asrvd/lyrist)  
-`[05/03 15:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#15`](https://github.com//AkaruiDevelopment/aoi.music/issues/15 '[BUG] $hasPlayer is bugged') in [AkaruiDevelopment/aoi.music](https://github.com/AkaruiDevelopment/aoi.music)  
-`[05/03 14:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#587`](https://github.com//aoijs/aoi.js/issues/587 'Bug: $globalUserLeaderboard broken in v6.8') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
