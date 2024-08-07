@@ -125,7 +125,6 @@ I'm Vishvaas, I'm flying in ocean!
 `[05/07 20:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)  
 `[05/06 20:27]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [z7pz/DD-backend](https://github.com/z7pz/DD-backend) to [Vishvaas06/DD-backend](https://github.com/Vishvaas06/DD-backend)  
 `[05/06 20:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [z7pz/DD-backend](https://github.com/z7pz/DD-backend)  
-`[05/06 17:22]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [kabirsingh2004/JUGNU-Dashboard](https://github.com/kabirsingh2004/JUGNU-Dashboard) to [Vishvaas06/JUGNU-Dashboard](https://github.com/Vishvaas06/JUGNU-Dashboard)  
 
 </details>
 <!--END_SECTION:activity-->
