@@ -123,8 +123,6 @@ I'm Vishvaas, I'm flying in ocean!
 `[05/07 23:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fuma-nama/discord-bot-dashboard-2](https://github.com/fuma-nama/discord-bot-dashboard-2)  
 `[05/07 23:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EckigerLuca/Darling](https://github.com/EckigerLuca/Darling)  
 `[05/07 20:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)  
-`[05/06 20:27]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [z7pz/DD-backend](https://github.com/z7pz/DD-backend) to [Vishvaas06/DD-backend](https://github.com/Vishvaas06/DD-backend)  
-`[05/06 20:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [z7pz/DD-backend](https://github.com/z7pz/DD-backend)  
 
 </details>
 <!--END_SECTION:activity-->
