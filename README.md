@@ -122,7 +122,6 @@ I'm Vishvaas, I'm flying in ocean!
 `[05/08 12:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
 `[05/07 23:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fuma-nama/discord-bot-dashboard-2](https://github.com/fuma-nama/discord-bot-dashboard-2)  
 `[05/07 23:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EckigerLuca/Darling](https://github.com/EckigerLuca/Darling)  
-`[05/07 20:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)  
 
 </details>
 <!--END_SECTION:activity-->
