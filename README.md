@@ -119,7 +119,6 @@ I'm Vishvaas, I'm flying in ocean!
 `[05/09 20:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 `[05/09 10:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
 `[05/08 15:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discord/user-install-example](https://github.com/discord/user-install-example)  
-`[05/08 12:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/Gojo-Bot](https://github.com/Vishvaas06/Gojo-Bot)  
 
 </details>
 <!--END_SECTION:activity-->
