@@ -27,6 +27,8 @@ I'm Vishvaas, I'm flying in ocean!
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[08/09 08:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`sus`](https://github.com/Vishvaas06/aoi.mongodb/tree/sus) in [Vishvaas06/aoi.mongodb](https://github.com/Vishvaas06/aoi.mongodb)  
+`[08/09 08:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `115` commits in [Vishvaas06/aoi.mongodb](https://github.com/Vishvaas06/aoi.mongodb)  
 `[08/04 09:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
 `[08/04 06:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`rewrite`](https://github.com/Vishvaas06/fafa/tree/rewrite) in [Vishvaas06/fafa](https://github.com/Vishvaas06/fafa)  
 `[08/01 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/aoi.mongo](https://github.com/Vishvaas06/aoi.mongo)  
@@ -35,11 +37,11 @@ I'm Vishvaas, I'm flying in ocean!
 `[07/27 21:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Vishvaas06/Sukuna-Bot](https://github.com/Vishvaas06/Sukuna-Bot)  
 `[07/27 21:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Vishvaas06/Sukuna-Bot/tree/main) in [Vishvaas06/Sukuna-Bot](https://github.com/Vishvaas06/Sukuna-Bot)  
 `[07/27 21:10]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Vishvaas06/Sukuna-Bot](https://github.com/Vishvaas06/Sukuna-Bot)  
-`[07/27 20:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KMKINGMAN/ProBotDiscordFontEnd](https://github.com/KMKINGMAN/ProBotDiscordFontEnd)  
-`[07/27 20:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LunaryBot/LunaryDashboard](https://github.com/LunaryBot/LunaryDashboard)  
 
 <details><summary>Show More</summary>
 
+`[07/27 20:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KMKINGMAN/ProBotDiscordFontEnd](https://github.com/KMKINGMAN/ProBotDiscordFontEnd)  
+`[07/27 20:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LunaryBot/LunaryDashboard](https://github.com/LunaryBot/LunaryDashboard)  
 `[07/05 14:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bedimcode/responsive-book-website](https://github.com/bedimcode/responsive-book-website)  
 `[07/05 14:13]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tryforge/ForgePanel](https://github.com/tryforge/ForgePanel) to [Vishvaas06/ForgePanel](https://github.com/Vishvaas06/ForgePanel)  
 `[07/05 14:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tryforge/ForgePanel](https://github.com/tryforge/ForgePanel)  
