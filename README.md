@@ -119,7 +119,6 @@ I'm Vishvaas, I'm flying in ocean!
 `[05/12 16:41]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [aoijs/website](https://github.com/aoijs/website) to [Vishvaas06/website](https://github.com/Vishvaas06/website)  
 `[05/10 16:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tj/ejs](https://github.com/tj/ejs)  
 `[05/10 00:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [unburn/musicard](https://github.com/unburn/musicard)  
-`[05/09 20:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 
 </details>
 <!--END_SECTION:activity-->
