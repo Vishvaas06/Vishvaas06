@@ -114,9 +114,6 @@ I'm Vishvaas, I'm flying in ocean!
 `[05/14 01:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Vishvaas06/Vishvaas06](https://github.com/Vishvaas06/Vishvaas06)  
 `[05/13 10:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AkaruiDevelopment/aoi.music](https://github.com/AkaruiDevelopment/aoi.music)  
 `[05/12 17:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/website](https://github.com/Vishvaas06/website)  
-`[05/12 16:42]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#169`](https://github.com//aoijs/website/pull/169 'Update timeoutList.md') in [aoijs/website](https://github.com/aoijs/website)  
-`[05/12 16:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Vishvaas06/website](https://github.com/Vishvaas06/website)  
-`[05/12 16:41]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [aoijs/website](https://github.com/aoijs/website) to [Vishvaas06/website](https://github.com/Vishvaas06/website)  
 
 </details>
 <!--END_SECTION:activity-->
